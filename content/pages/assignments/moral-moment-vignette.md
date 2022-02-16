@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: f92d8413-9a84-bd3d-7b4a-8ac716679858
 title: '"Moral Moment" Vignette'
 uid: 8a7fd250-8edd-8a5c-64df-2323172c01c3
