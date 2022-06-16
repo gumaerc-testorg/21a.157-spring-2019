@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains details for the moral moment vignette assignment.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

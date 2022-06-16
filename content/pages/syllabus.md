@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -32,7 +33,7 @@ _Suggested_
 
 Kavedžija, Iza, and Harry Walker, eds. _Values of Happiness: Toward an Anthropology of Purpose in Life_. HAU, 2017. ISBN: 9780986132575. 
 
-All other readings can be found in the [Readings]({{< baseurl >}}/pages/readings) section.
+All other readings can be found in the {{% resource_link f5631aaf-f470-de1b-3ad4-0f00ad8cf73d "Readings" %}} section.
 
 Grading
 -------
@@ -89,4 +90,4 @@ Final paper
 
 {{< tableclose >}}
 
-Detailed information for the vignette and investigation papers can be found in the [Assignments]({{< baseurl >}}/pages/assignments) section.
+Detailed information for the vignette and investigation papers can be found in the {{% resource_link f92d8413-9a84-bd3d-7b4a-8ac716679858 "Assignments" %}} section.
