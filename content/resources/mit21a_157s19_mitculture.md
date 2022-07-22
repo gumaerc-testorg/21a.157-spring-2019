@@ -5,6 +5,7 @@ file: /courses/21a-157-the-meaning-of-life-spring-2019/93e66233b873dd0aebc4fe91d
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
