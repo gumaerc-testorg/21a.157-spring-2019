@@ -1,6 +1,11 @@
 ---
 content_type: page
+description: This section contains information on the investigation papers assignment.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: f92d8413-9a84-bd3d-7b4a-8ac716679858
 title: Investigation Papers
 uid: 64374fbf-e920-e4b6-ead9-6367e2409cd3
@@ -64,7 +69,7 @@ This paper is due during session 19.
 
 _Student Example_
 
-["Self-Cultivation Investigation Paper - Option 2" (PDF)]({{< baseurl >}}/resources/mit21a_157s19_module4_opt2)
+{{% resource_link b8b2917f-e794-1dac-4c39-9635abafb52c "\"Self-Cultivation Investigation Paper - Option 2\" (PDF)" %}}
 
 Module 5: Belonging
 -------------------
@@ -81,6 +86,6 @@ This paper is due during session 23.
 
 _Student Example_
 
-["Belonging Investigation Paper - Option 2" (PDF)]({{< baseurl >}}/resources/mit21a_157s19_module5_opt2)
+{{% resource_link c65524f3-4461-d98d-160a-c3669dac2c61 "\"Belonging Investigation Paper - Option 2\" (PDF)" %}}
 
 Note: Student examples appear courtesy of MIT students and are anonymous by request.
