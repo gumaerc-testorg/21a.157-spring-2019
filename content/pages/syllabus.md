@@ -27,7 +27,7 @@ Text
 
 _Required_
 
-Hamdy, Sherine, and Coleman Nye. _Lissa: A Story about Medical Promise, Friendship, and Revolution_. University of Toronto Press, 2017. ISBN: 9781487593476. \[Preview with [Google Books](https://books.google.com/books?id=E6A7DwAAQBAJ&pg=PAfrontcover#v=onepage&q&f=false)\]
+Hamdy, Sherine, and Coleman Nye. _Lissa: A Story about Medical Promise, Friendship, and Revolution_. University of Toronto Press, 2017. ISBN: 9781487593476. \[Preview with {{% resource_link "68063f92-e57f-42dd-8bef-f15abc2100c3" "Google Books" %}}\]
 
 _Suggested_
 
