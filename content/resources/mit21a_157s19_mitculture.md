@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/21a-157-the-meaning-of-life-spring-2019/93e66233b873dd0aebc4fe91dc2b189b_MIT21A_157S19_MITCulture.pdf
+file_size: 571970
 file_type: application/pdf
 learning_resource_types:
 - Readings
