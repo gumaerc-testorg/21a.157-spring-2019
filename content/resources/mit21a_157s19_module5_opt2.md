@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/21a-157-the-meaning-of-life-spring-2019/c65524f34461d98d160ac3669dac2c61_MIT21A_157S19_Module5_Opt2.pdf
+file: /ol-ocw-studio-app/courses/21a-157-the-meaning-of-life-spring-2019/c65524f34461d98d160ac3669dac2c61_MIT21A_157S19_Module5_Opt2.pdf
 file_size: 73222
 file_type: application/pdf
 learning_resource_types:
