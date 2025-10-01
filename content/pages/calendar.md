@@ -123,7 +123,7 @@ Beauty
 
 Mindfulness
 
-*In-class workshop led by Rana Chudnofsky of the* [*Benson-Henry Institute for Mind Body Medicine (BHI)*](https://bensonhenryinstitute.org/) *at Massachusetts General Hospital*
+*In-class workshop led by Rana Chudnofsky of the* {{% resource_link "60e0dc0f-9056-4ebb-beab-18a2b3816d7e" "*Benson-Henry Institute for Mind Body Medicine (BHI)*" %}} *at Massachusetts General Hospital*
 
 {{< tdclose >}}{{< tdopen >}}
  
